@@ -1,2 +1,5 @@
 # fuzzy-funicular
-This is the code for snake ladder game in c language.
+This is for the codes in C language.
+(1) Snake Ladder Game
+(2) Hospital Management
+(3) Bus Reservation System
